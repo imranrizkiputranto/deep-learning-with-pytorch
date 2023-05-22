@@ -1,4 +1,4 @@
-# deep-learning-with-pytorch
+# Deep Learning With PyTorch
 This repository contains code files I have personally coded in conjunction with projects included in the "PyTorch for Deep Learning with Python Bootcamp" online course on Udemy by Jose Portilla.
 
 ## Course Description
